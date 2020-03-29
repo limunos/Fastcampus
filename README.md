@@ -48,6 +48,7 @@
   1. 블록(Block), 인라인(Inline)1
   2. 블록(Block), 인라인(Inline)2
   3. 블록(Block), 인라인(Inline)
+  4. 주요범위 & 메타데이터 - HTML, HEAD, BODY, TITLE
 ```
 
 
