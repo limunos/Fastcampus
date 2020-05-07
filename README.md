@@ -107,6 +107,7 @@
   5. 멀티미디어 - AUDIO
   6. 멀티미디어 - VIDEO
   7. 멀티미디어 - FIGURE, FIGCAPTION
+  8. 내장 콘텐츠 - IFRAME
  ```
 
 
