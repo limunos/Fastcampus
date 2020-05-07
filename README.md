@@ -106,6 +106,7 @@
   4. 멀티미디어 - IMG 4 - sizes 속성
   5. 멀티미디어 - AUDIO
   6. 멀티미디어 - VIDEO
+  7. 멀티미디어 - FIGURE, FIGCAPTION
  ```
 
 
