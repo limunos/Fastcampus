@@ -108,6 +108,8 @@
   6. 멀티미디어 - VIDEO
   7. 멀티미디어 - FIGURE, FIGCAPTION
   8. 내장 콘텐츠 - IFRAME
+  9. 내장 콘텐츠 - CANVAS
+  10. 스크립트 - SCRIPT 1
  ```
 
 
