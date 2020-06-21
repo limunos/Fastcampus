@@ -12,9 +12,36 @@
     <input type="text" autofocus form="login-form"> -->
 
     <form action="/login" method="GET">
-        <input type="email">
-        <input type="password">
+        <input type="email" name="id">
+        <input type="password" name="pw">
         <input type="submit" value="로그인">
+    </form>
+
+    <input type="number" value="1234" disabled>
+    <br>
+    <br>
+    <input type="number" placeholder="숫자를 입력하세요." max="12" min="2" step="4">
+    <br>
+    <br>
+    <input type="checkbox" checked>
+    <br>
+    <br>
+    <input type="file" multiple>
+    <br>
+    <br>
+    <input type="image" src="../../Downloads/수정완료.jpg" alt="gahee">
+    <br>
+    <br>
+    <input type="radio" name="radio">
+    <input type="radio" name="radio" checked>
+    <input type="radio" name="radio">
+    <br>
+    <br>
+    <form action="/login">
+        <input type="text" name="id">
+        <input type="password" name="pw">
+        <input type="submin" value="로그인">
+        <input type="reset" value="초기화">
     </form>
 </body>
 </html>
