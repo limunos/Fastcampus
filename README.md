@@ -121,5 +121,6 @@
   3. 표 콘텐츠 - TD
   4. 표 콘텐츠 - CAPTION
   5. 표 콘텐츠 - COLGROUP, COL
+  6. 표 콘텐츠 - THEAD, TBODY, TFOOT
 ```
 
