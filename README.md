@@ -123,5 +123,7 @@
   5. 표 콘텐츠 - COLGROUP, COL
   6. 표 콘텐츠 - THEAD, TBODY, TFOOT
   7. 양식 - FORM
+  8. 양식 - INPUT 1
+  9. 양식 - INPUT 2
 ```
 
