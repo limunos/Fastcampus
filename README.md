@@ -119,6 +119,7 @@
   1. 표 콘텐츠 - TABLE
   2. 표 콘텐츠 - TH
   3. 표 콘텐츠 - TD
-
+  4. 표 콘텐츠 - CAPTION
+  5. 표 콘텐츠 - COLGROUP, COL
 ```
 
