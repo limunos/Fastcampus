@@ -125,5 +125,6 @@
   7. 양식 - FORM
   8. 양식 - INPUT 1
   9. 양식 - INPUT 2
+  10. 양식 - LABEL
 ```
 
