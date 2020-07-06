@@ -127,5 +127,6 @@
   9. 양식 - INPUT 2
   10. 양식 - LABEL
   11. 양식 - BUTTON
+  12. 양식 - TEXTAREA
 ```
 
