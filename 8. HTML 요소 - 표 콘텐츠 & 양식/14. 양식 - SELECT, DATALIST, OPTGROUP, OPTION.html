@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <select name="fruits">
+        <optgroup label="1">
+            <option label="Apple" value="Apple">
+            <option>Orange</option>
+            <option>Banana</option>
+        </optgroup>
+        <optgroup label="2">
+            <option selected>Mango</option>
+            <option>Fineapple</option>
+        </optgroup>
+    </select>
+
+    <form>
+        <input type="text" list="fruits">
+
+        <datalist id="fruits">
+            <option>Apple</option>
+            <option>Orange</option>
+            <option>Banana</option>
+            <option>Mango</option>
+            <option>Fineapple</option>
+        </datalist>
+    </form>
+</body>
+</html>
