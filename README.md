@@ -132,3 +132,8 @@
   14. 양식 - SELECT, DATALIST, OPTGROUP, OPTION
   15. 양식 - PROGRESS
 ```
+
+```
+  9. HTML / 전역 속성, 기타
+    1. 전역 속성 - class와 id
+```

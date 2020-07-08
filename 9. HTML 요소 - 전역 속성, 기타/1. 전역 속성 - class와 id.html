@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .section {
+            width: 100px;
+            color: red;
+            background-color: blue;
+        }
+        #section {
+            height: 100px;
+            position: relative;
+        }
+    </style> 
+</head>
+<body>
+    <div class="section"></div>
+    <div class="section"></div>
+    <div class="section"></div>
+    <div class="section"></div>
+    <div id="section"></div>
+    <script>
+        const section = document.querySelector('.section');
+        const sectionId = document.getElementById('section');
+    </script>
+</body>
+</html>
