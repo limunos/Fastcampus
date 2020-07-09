@@ -141,4 +141,5 @@
     4. 전역 속성 - lang
     5. 전역 속성 - data-
     6. 전역 속성 - draggable
+    7. 전역 속성 - hidden
 ```
