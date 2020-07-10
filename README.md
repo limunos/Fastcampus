@@ -143,4 +143,5 @@
     6. 전역 속성 - draggable
     7. 전역 속성 - hidden
     8. 전역 속성 - tabindex
+    9. 절대 경로와 상대 경로
 ```
