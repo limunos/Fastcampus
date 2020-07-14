@@ -155,4 +155,5 @@
     3. 기본 선택자
     4. 복합 선택자
     5. 가상 클래스 선택자 - hover, active, focus
+    6. 가상 클래스 선택자 - first, child, last-child
 ```
