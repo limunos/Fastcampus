@@ -1,0 +1,11 @@
+/* .fruits li:nth-child(2) {
+    color: red;
+} */
+
+/* .fruits li:nth-child(2n) {
+    color: red;
+} */
+
+.fruits li:nth-child(n+3) {
+    color: red;
+}
