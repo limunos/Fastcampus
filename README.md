@@ -157,4 +157,5 @@
     5. 가상 클래스 선택자 - hover, active, focus
     6. 가상 클래스 선택자 - first, child, last-child
     7. 가상 클래스 선택자 - nth-child
+    8. 가상 클래스 선택자 - xxx-child 주의사항
 ```
