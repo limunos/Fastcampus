@@ -161,4 +161,5 @@
     9. 가상 클래스 선택자 - nth-of-type, not
     10. 가상요소 선택자 - before
     11. 가상요소 선택자 - after
+    12. 속성 선택자 - [attr], [attr$=value]
 ```
