@@ -1,0 +1,12 @@
+ul li::after {
+    /* content: ".0"; */
+    content: url(https://heropy.blog/css/images/logo.png);
+}
+
+div::before {
+    content: "<";
+}
+
+div::after {
+    content: ">";
+}

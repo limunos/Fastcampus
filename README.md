@@ -159,4 +159,6 @@
     7. 가상 클래스 선택자 - nth-child
     8. 가상 클래스 선택자 - xxx-child 주의사항
     9. 가상 클래스 선택자 - nth-of-type, not
+    10. 가상요소 선택자 - before
+    11. 가상요소 선택자 - after
 ```
