@@ -1,0 +1,10 @@
+[disabled] {
+    opacity: 0.5;
+    color: red;
+}
+
+/* 큰 따옴표 상관 없음 */
+[type="password"] { 
+    opacity: 0.5;
+    color: red;
+}
