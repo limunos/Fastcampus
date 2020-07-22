@@ -1,0 +1,31 @@
+div {
+    color: red !important;
+}
+
+#color_yellow {
+    color: yellow;
+}
+
+.color_green {
+    color: green;
+}
+
+div {
+    color: blue;
+}
+
+* {
+    color: darkblue;
+}
+
+body {
+    color: violet;
+}
+
+.list li.item {color: red;} /*21*/
+.list li:hover {color: red;} /*21*/
+.box::before {content: "Good"; color: red;} /*11*/
+#submit span {color: red;} /*101*/
+header .menu li:nth-chlid(2) {color: red;} /*22*/
+:not(.box) {color: red;} /*10*/
+:not(span) {color: red;} /*1*/

@@ -164,4 +164,5 @@
     12. 속성 선택자 - [attr], [attr$=value]
     13. 속성 선택자 - [attr^=value], [attr$=value]
     14. 상속(Inherit)
+    15. 우선순위
 ```
