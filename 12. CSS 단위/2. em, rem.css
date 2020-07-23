@@ -1,0 +1,45 @@
+/* body * {
+    border: 2px solid;
+}
+
+.container {
+    width: 60em;
+    font-size: 15px;
+}
+
+.parent {
+    width: 30em;
+    font-size: 2em;
+}
+
+.child {
+    width: 15em;
+    font-size: 2em;
+} */
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 16px;
+}
+
+body * {
+    border: 2px solid;
+}
+
+.container {
+    width: 60em;
+    font-size: 15px;
+}
+
+.parent {
+    width: 30em;
+    font-size: 2em;
+}
+
+.child {
+    width: 20rem;
+    font-size: 2em;
+}
