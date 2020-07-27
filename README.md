@@ -179,4 +179,5 @@
     1. px, %
     2. em, rem
     3. vw, vh
+    4. vmnin, vmax
 ```
