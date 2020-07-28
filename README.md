@@ -187,4 +187,5 @@
     1. width, height
     2. max-width, min-width, max-width, min-height
     3. margin
+    4. margin - 중복(Collapse)
 ```

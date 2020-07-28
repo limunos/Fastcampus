@@ -1,0 +1,14 @@
+.parent {
+    width: 300px;
+    height: 200px;
+    background: cyan;
+    margin-top: 50px;
+}
+.child {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    /* float: left; */
+    /* margin: 20px; */
+    margin-top: 50px;
+}
