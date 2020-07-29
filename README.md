@@ -189,4 +189,5 @@
     3. margin
     4. margin - 중복(Collapse)
     5. padding
+    6. border
 ```

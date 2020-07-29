@@ -1,0 +1,64 @@
+div {
+    margin: 10px;
+}
+.box1 {
+    width: 200px;
+    height: 200px;
+    border: 10px none gray;
+    display: inline-block;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    border: 10px solid gray;
+    display: inline-block;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    border: 10px dotted gray;
+    display: inline-block;
+}
+.box4 {
+    width: 200px;
+    height: 200px;
+    border: 10px dashed gray;
+    display: inline-block;
+}
+.box5 {
+    width: 200px;
+    height: 200px;
+    border: 10px double gray;
+    display: inline-block;
+}
+.box6 {
+    width: 200px;
+    height: 200px;
+    border: 10px groove gray;
+    display: inline-block;
+}
+.box7 {
+    width: 200px;
+    height: 200px;
+    border: 10px ridge gray;
+    display: inline-block;
+}
+.box8 {
+    width: 200px;
+    height: 200px;
+    border: 10px inset gray;
+    display: inline-block;
+}
+.box9 {
+    width: 200px;
+    height: 200px;
+    border: 10px outset gray;
+    display: inline-block;
+}
+.box10 {
+    width: 200px;
+    height: 200px;
+    background: orange;
+    border: 10px solid black;
+    box-sizing: border-box;
+}
