@@ -200,5 +200,6 @@
   14. CSS 속성 - 글꼴, 문자
     1. font, font-style
     2. font-weight
+    3. font-size
 ```
 
