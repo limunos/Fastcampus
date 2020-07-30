@@ -195,3 +195,9 @@
     9. overflow
     10. opacity
 ```
+
+```
+  14. CSS 속성 - 글꼴, 문자
+    1. font, font-style
+```
+
