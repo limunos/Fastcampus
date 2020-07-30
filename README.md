@@ -191,4 +191,5 @@
     5. padding
     6. border
     7. box-sizing
+    8. display
 ```
