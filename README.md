@@ -201,5 +201,6 @@
     1. font, font-style
     2. font-weight
     3. font-size
+    4. line-height
 ```
 
