@@ -193,4 +193,5 @@
     7. box-sizing
     8. display
     9. overflow
+    10. opacity
 ```
