@@ -202,5 +202,6 @@
     2. font-weight
     3. font-size
     4. line-height
+    5. font-family
 ```
 
