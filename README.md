@@ -205,5 +205,6 @@
     5. font-family
     6. color
     7. text-align
+    8. text-decoration
 ```
 
