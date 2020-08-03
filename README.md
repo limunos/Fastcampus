@@ -204,5 +204,6 @@
     4. line-height
     5. font-family
     6. color
+    7. text-align
 ```
 
