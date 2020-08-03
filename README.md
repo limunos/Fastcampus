@@ -210,3 +210,7 @@
     10. letter-spacing, word-spacing
 ```
 
+```
+  15. CSS 속성 - 띄움(정렬), 위치
+    1. float
+```

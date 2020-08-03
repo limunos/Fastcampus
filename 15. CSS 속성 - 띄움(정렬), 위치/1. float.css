@@ -1,0 +1,12 @@
+article .picture {
+    width: 200px;
+    height: 270px;
+    /* border: 1px solid black; */
+    background: url(../images/l9791188331796.jpg) no-repeat;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+article .text {
+    clear: left;
+}
