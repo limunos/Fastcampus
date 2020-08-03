@@ -207,5 +207,6 @@
     7. text-align
     8. text-decoration
     9. text-indent
+    10. letter-spacing, word-spacing
 ```
 
