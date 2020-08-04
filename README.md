@@ -216,4 +216,5 @@
     2. float - display 수정
     3. clear
     4. position 그리고 top, bottom, left, right
+    5. position 속성값 - relative
 ```

@@ -1,0 +1,16 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: lightseagreen;
+    border: 4px dashed lightskyblue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.relative {
+    position: relative; /* 자기 자신을 기준으로 */
+    top: 20px;
+    left: 50px;
+}
