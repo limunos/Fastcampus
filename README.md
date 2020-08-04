@@ -214,4 +214,5 @@
   15. CSS 속성 - 띄움(정렬), 위치
     1. float
     2. float - display 수정
+    3. clear
 ```
