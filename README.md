@@ -215,4 +215,5 @@
     1. float
     2. float - display 수정
     3. clear
+    4. position 그리고 top, bottom, left, right
 ```
