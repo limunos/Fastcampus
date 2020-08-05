@@ -219,4 +219,5 @@
     5. position 속성값 - relative
     6. position 속성값 - absolute
     7. position 속성값 - fixed
+    8. position 속성값 - sticky
 ```
