@@ -229,4 +229,5 @@
     1. background
     2. background-color
     3. background-image
+    4. background-repeat
 ```
