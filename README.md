@@ -223,3 +223,8 @@
     9. position 특징 - 요소 쌓임 순서
     10. position 특징 - display 수정
 ```
+
+```
+  16. CSS 속성 - 배경
+    1. background
+```
