@@ -228,4 +228,5 @@
   16. CSS 속성 - 배경
     1. background
     2. background-color
+    3. background-image
 ```
