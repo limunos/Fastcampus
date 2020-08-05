@@ -220,4 +220,5 @@
     6. position 속성값 - absolute
     7. position 속성값 - fixed
     8. position 속성값 - sticky
+    9. position 특징 - 요소 쌓임 순서
 ```
