@@ -230,4 +230,5 @@
     2. background-color
     3. background-image
     4. background-repeat
+    5. background-position
 ```
