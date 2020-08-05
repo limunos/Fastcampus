@@ -1,0 +1,7 @@
+span {
+    width: 100px;
+    height: 100px;
+    background: khaki;
+    margin: 30px 0;
+    position: fixed; /* absolute도 동일하게 display: block값으로 변경 */
+}
