@@ -232,4 +232,5 @@
     4. background-repeat
     5. background-position
     6. background-attachment
+    7. background-size
 ```
