@@ -1,0 +1,16 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: khaki;
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: rotate(90deg); */
+    transition: 1s;
+}
+.box:hover {
+    /* transform: translate(10px, 10px); */
+    /* transform: scale(2); */
+    transform: skewY(45deg);
+}
