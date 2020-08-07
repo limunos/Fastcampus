@@ -1,0 +1,9 @@
+img {
+    border: 1px dashed lightgray;
+    transition: 1s;
+    margin: 500px;
+}
+img:hover {
+    transform: rotate(45deg);
+    transform-origin: 100% 100%;
+}
