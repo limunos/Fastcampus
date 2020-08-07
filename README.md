@@ -234,3 +234,8 @@
     6. background-attachment
     7. background-size
 ```
+
+```
+  17. CSS 속성 - 전환 & 변환
+    1. 전환(Transitions)
+```
