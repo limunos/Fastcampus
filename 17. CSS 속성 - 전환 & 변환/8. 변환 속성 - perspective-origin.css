@@ -1,0 +1,25 @@
+.perspective {
+    width: 200px;
+    padding: 100px;
+    perspective: 500px;
+    perspective-origin: 0 50%;
+}
+.grand-parent {
+    width: 200px;
+    border: 3px solid blue;
+    transition: 1s;
+    transform: rotateX(-45deg);
+    transform-style: preserve-3d;
+}
+.parent {
+    width: 200px;
+    border: 3px solid red;
+    transition: 1s;
+    transform: rotateY(45deg);
+    transform-style: preserve-3d;
+}
+img {
+    border: 3px solid lightgray;
+    transition: 1s;
+    transform: rotateX(45deg);
+}
