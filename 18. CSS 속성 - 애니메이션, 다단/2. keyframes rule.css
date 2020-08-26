@@ -1,0 +1,24 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: khaki;
+    border-radius: 10px;
+}
+
+.box:hover {
+    animation: my-ani 2s infinite alternate;
+}
+
+@keyframes my-ani {
+    0% {
+        width: 100px;
+    }
+    75% {
+        width: 500px;
+        background: red;
+    }
+    100% {
+        width: 300px;
+        background: yellowgreen;
+    }
+}
