@@ -1,0 +1,8 @@
+img {
+    margin: 100px;
+    border: 1px solid black;
+    transition: 1s;
+    transform: perspective(500px) rotateY(105deg);
+    /* backface-visibility: visible; */
+    /* backface-visibility: hidden; */
+}
