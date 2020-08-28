@@ -253,4 +253,5 @@
   18. CSS 속성 - 애니메이션, 다단
     1. 애니메이션(Animations) 개요
     2. keyframes rule
+    3. 애니메이션 속성 - animation-name, animation-duration
 ```
