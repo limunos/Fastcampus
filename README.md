@@ -254,4 +254,6 @@
     1. 애니메이션(Animations) 개요
     2. keyframes rule
     3. 애니메이션 속성 - animation-name, animation-duration
+    4. 애니메이션 속성 - animation-timing-function, animation-delay
+    5. 애니메이션 속성 - animation-iteration-count, animation-direction
 ```
