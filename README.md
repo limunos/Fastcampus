@@ -258,4 +258,5 @@
     5. 애니메이션 속성 - animation-iteration-count, animation-direction
     6. 애니메이션 속성 - animation-fill-mode
     7. 애니메이션 속성 - animation-play-state
+    8. 다단(Multi Columns)
 ```

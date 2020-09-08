@@ -1,0 +1,8 @@
+p {
+    color: goldenrod;
+    text-align: justify;
+    column-width: 200px;
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 2px double;
+}
