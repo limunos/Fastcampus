@@ -263,4 +263,5 @@
 ```
     19. CSS 속성 - flex
       1. flex 개요
+      2. flex containers 속성 - display
 ```
