@@ -267,4 +267,5 @@
       3. flex containers 속성 - flex-flow, flex-wrap
       4. flex 주축과 교차축, 시작점과 끝점
       5. flex containers 속성 - flex-wrap
+      6. flex container 속성 - justify-content
 ```
