@@ -270,4 +270,5 @@
       6. flex container 속성 - justify-content
       7. flex container 속성 - align-content
       8. flex container 속성 - align-items
+      9. flex items 속성 - order
 ```
