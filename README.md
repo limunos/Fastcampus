@@ -269,4 +269,5 @@
       5. flex containers 속성 - flex-wrap
       6. flex container 속성 - justify-content
       7. flex container 속성 - align-content
+      8. flex container 속성 - align-items
 ```
