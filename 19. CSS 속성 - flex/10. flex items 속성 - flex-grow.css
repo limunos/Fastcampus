@@ -1,0 +1,17 @@
+.container {
+    border: 4px solid;
+    display: flex;
+}
+.container .item {
+    /* width: 100px; */
+    height: 100px;
+    background: khaki;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.item1 {
+    flex-grow: 1;
+}
+.item2 {
+    width: 100px;
+}
