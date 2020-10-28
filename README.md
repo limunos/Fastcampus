@@ -274,4 +274,5 @@
       10. flex items 속성 - flex-grow
       11. flex items 속성 - flex-shrink
       12. flex-itmes 속성 - flex-basis
+      13. flex-items 속성 - flex
 ```
