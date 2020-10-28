@@ -281,4 +281,5 @@
     20. CSS 속성 - Grid
       1. Grid 개요
       2. Grid Containers 속성 - display
+      3. grid-template-rows, grid-template-columns
 ```
