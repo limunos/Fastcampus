@@ -272,4 +272,6 @@
       8. flex container 속성 - align-items
       9. flex items 속성 - order
       10. flex items 속성 - flex-grow
+      11. flex items 속성 - flex-shrink
+      12. flex-itmes 속성 - flex-basis
 ```
