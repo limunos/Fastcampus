@@ -285,4 +285,7 @@
       4. grid-row, grid-column
       5. grid-template-areas
       6. row-gap, column-gap, gap
+      7. grid-auto-rows, grid-auto-columns
+      8. grid-auto-flow
+      9. grid-template-rows, grid-template-columns
 ```
