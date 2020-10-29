@@ -284,4 +284,5 @@
       3. grid-template-rows, grid-template-columns
       4. grid-row, grid-column
       5. grid-template-areas
+      6. row-gap, column-gap, gap
 ```
