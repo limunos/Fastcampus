@@ -288,4 +288,6 @@
       7. grid-auto-rows, grid-auto-columns
       8. grid-auto-flow
       9. grid-template-rows, grid-template-columns
+      10. grid-row, grid-column,grid-area
+      11. grid-template
 ```
