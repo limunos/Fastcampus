@@ -290,4 +290,6 @@
       9. grid-template-rows, grid-template-columns
       10. grid-row, grid-column,grid-area
       11. grid-template
+      12. grid
+      13. align-content, justify-content
 ```
