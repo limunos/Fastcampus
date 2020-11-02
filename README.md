@@ -292,4 +292,5 @@
       11. grid-template
       12. grid
       13. align-content, justify-content
+      14. align-items, justify-items
 ```
