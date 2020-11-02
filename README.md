@@ -293,4 +293,6 @@
       12. grid
       13. align-content, justify-content
       14. align-items, justify-items
+      15. align-self, align-justify-self
+      16. order, z-index
 ```
