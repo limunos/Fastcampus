@@ -295,4 +295,5 @@
       14. align-items, justify-items
       15. align-self, align-justify-self
       16. order, z-index
+      17. repeat, minmax, fit-content
 ```
