@@ -1,0 +1,23 @@
+{
+  "name": "FastCampus",
+  "version": "1.0.0",
+  "description": "```\r 1. HTML&CSS 첫걸음 - 개요\r   1. 첫 인사, 개요 소개\r   2. HTML, CSS 그리고 JS\r   3. 웹 표준과 웹 접근성\r   4. 에디터 소개 (5:22)5. VS code 설치 및 설정\r   5. VS code 설치 및 설정\r   6. VS code 한글 패치\r   7. Beautify & Live Server\r   8. 그 외 확장 프로그램과 알아두면 좋은 단축키\r   9. 이미지에 대한 이해\r   10. JPG, PNG, GIF, WEBP, SVG\r   11. 특수 기호\r   12. 오픈 소스와 라이선스\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limunos/FastCampus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limunos/FastCampus/issues"
+  },
+  "homepage": "https://github.com/limunos/FastCampus#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
