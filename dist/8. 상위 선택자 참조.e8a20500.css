@@ -1,0 +1,9 @@
+.btn {
+  width: 100px;
+  height: 100px;
+  border: 1px solid; }
+  .btn.active {
+    color: red; }
+
+
+/*# sourceMappingURL=/8.%20상위%20선택자%20참조.e8a20500.css.map */
