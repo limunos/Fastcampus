@@ -1,0 +1,1 @@
+{"version":3,"sources":["9. 중첩 벗어나기.scss"],"names":[],"mappings":"AAAA,QAAQ,CAAC;EAGL,KAAK,EAFD,KAAK;EAGT,MAAM,EAFF,KAAK,GAMZ","file":"9. 중첩 벗어나기.css","sourceRoot":"..\\21. Sass","sourcesContent":[".section {\r\n    $w: 100px;\r\n    $h: 200px;\r\n    width: $w;\r\n    height: $h;\r\n    .item {\r\n        \r\n    }\r\n}"]}

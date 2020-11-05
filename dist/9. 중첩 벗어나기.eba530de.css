@@ -1,0 +1,15 @@
+.section {
+  width: 100px;
+  height: 200px;
+  border: 1px solid; }
+  .section .item {
+    width: 100px;
+    height: 200px;
+    border: 1px solid red; }
+  .box {
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue; }
+
+
+/*# sourceMappingURL=/9.%20중첩%20벗어나기.eba530de.css.map */
