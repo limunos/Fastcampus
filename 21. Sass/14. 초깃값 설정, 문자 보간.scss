@@ -1,0 +1,10 @@
+$color: red;
+.box {
+    $color: blue !default;
+    color: $color;
+}
+
+$word: "test";
+.contents::before {
+    content: "This is #{$word}"
+}

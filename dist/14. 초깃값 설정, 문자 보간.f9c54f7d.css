@@ -1,0 +1,8 @@
+.box {
+  color: red; }
+
+.contents::before {
+  content: "This is test"; }
+
+
+/*# sourceMappingURL=/14.%20초깃값%20설정,%20문자%20보간.f9c54f7d.css.map */
