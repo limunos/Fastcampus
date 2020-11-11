@@ -1,0 +1,15 @@
+@mixin size($w: 50px, $h: 50px) {
+    width: $w;
+    height: $h;
+    border: 1px solid black;
+}
+
+.box1 {
+    @include size(100px, 100px);
+}
+.box2 {
+    @include size(300px, 500px);
+}
+.box3 {
+    @include size($h: 300px);
+}

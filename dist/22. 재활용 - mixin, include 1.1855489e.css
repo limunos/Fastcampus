@@ -1,0 +1,17 @@
+.box1 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black; }
+
+.box2 {
+  width: 300px;
+  height: 500px;
+  border: 1px solid black; }
+
+.box3 {
+  width: 50px;
+  height: 300px;
+  border: 1px solid black; }
+
+
+/*# sourceMappingURL=/22.%20재활용%20-%20mixin,%20include%201.1855489e.css.map */
