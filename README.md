@@ -323,5 +323,6 @@
     20. 연산 - 색상
     21. 연산 - 논리
     22. 재활용 - mixin, include 1
+    23. 재활용 - mixin, include 2
 
 ```
